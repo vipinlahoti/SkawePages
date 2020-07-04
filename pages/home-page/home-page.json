@@ -3,8 +3,8 @@
     "heading": "Lorem ipsum dolor sit amet",
     "para": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia"
   },
-  "section-stripe": "Get started with Skáwe and find everything that you need to get online.",
-  "section-cloudcard": [
+  "sectionstripe": "Get started with Skáwe and find everything that you need to get online.",
+  "sectioncloudcard": [
     {
       "cardOne": {
         "title": "Load Balancers",
